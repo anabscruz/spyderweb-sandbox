@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* SPYDER WEB */
+div.sw-box {
+  border: 1px solid #000;
+  padding: 0px 10px;
+  float: left;
+}
